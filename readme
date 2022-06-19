@@ -1,0 +1,5 @@
+Buka Terminal STB
+Lalu ketikan "wget -O installer https://raw.githubusercontent.com/TeamWD/code/main/installer && chmod +x installer && ./installer" tanpa tanda petik
+Tunggu Sampai Selesai
+Jika sudah ketikan cd lalu enter
+Terakhir ketikan "cat logremot.txt" tanpa tanda petik
